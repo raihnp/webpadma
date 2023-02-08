@@ -1,0 +1,32 @@
+@media (max-width: 576px){
+      .na {display: none;}
+      .jumbo {
+        background-image: url(../img/welcome.jpg);
+        background-size: 100%;
+        background-attachment: fixed;
+        background-position:top;
+        margin-top: -20px;
+        background-repeat: no-repeat;
+        text-align: left;
+        height: 220px;
+        position: relative;
+        overflow: hidden;
+        }
+       }
+@media (min-width: 576px){
+      .na1 {display: none;}
+      .jumbo {
+        background-image: url(../img/welcome.jpg);
+        background-size: 100%;
+        background-attachment: fixed;
+        background-position:top;
+        margin-top: -30px;
+        background-repeat: no-repeat;
+        text-align: left;
+        height: 500px;
+        position: relative;
+        }
+       }
+
+
+       
